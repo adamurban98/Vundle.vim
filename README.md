@@ -50,7 +50,7 @@
 
 2. Set up [Vundle]:
 
-   ` git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
+   ` git clone --depth=1 https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
 
 3. Configure Plugins:
 
